@@ -1,0 +1,6 @@
+*.pem
+.env
+settings.py
+*.pyc
+*.sublime-project
+*.sublime-workspace
